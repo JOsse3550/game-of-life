@@ -36,7 +36,7 @@
                                 <artifactId>gameoflife-web</artifactId>
                                 <type>war</type>
                                 <properties>
-                                    <context>gameoflife</context>
+                                    <context>gameoflife_JOsse</context>
                                 </properties>
                             </deployable>
                         </deployables>
